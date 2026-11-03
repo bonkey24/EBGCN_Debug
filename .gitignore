@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated graph data
+data/Twitter16graph/
+*.npz
+
+# Model checkpoints
+*.m
+
+# IDE & Editor folders
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
